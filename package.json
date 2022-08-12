@@ -1,7 +1,7 @@
 {
   "name": "canvas-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack --config webpack.config.js",
@@ -11,7 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
@@ -23,5 +22,13 @@
     "prettier": "^2.0.2",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher4lis/canvas-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christopher4lis/canvas-boilerplate/issues"
+  },
+  "homepage": "https://github.com/christopher4lis/canvas-boilerplate#readme"
 }
